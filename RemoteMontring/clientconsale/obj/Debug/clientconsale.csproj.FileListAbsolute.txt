@@ -1,0 +1,6 @@
+C:\Users\tahani\Downloads\Gradution project\project by c#\RemoteMontring\clientconsale\bin\Debug\clientconsale.exe.config
+C:\Users\tahani\Downloads\Gradution project\project by c#\RemoteMontring\clientconsale\bin\Debug\clientconsale.exe
+C:\Users\tahani\Downloads\Gradution project\project by c#\RemoteMontring\clientconsale\bin\Debug\clientconsale.pdb
+C:\Users\tahani\Downloads\Gradution project\project by c#\RemoteMontring\clientconsale\obj\Debug\clientconsale.csprojResolveAssemblyReference.cache
+C:\Users\tahani\Downloads\Gradution project\project by c#\RemoteMontring\clientconsale\obj\Debug\clientconsale.exe
+C:\Users\tahani\Downloads\Gradution project\project by c#\RemoteMontring\clientconsale\obj\Debug\clientconsale.pdb

@@ -1,0 +1,7 @@
+C:\Users\tahani\Downloads\Gradution project\project by c#\RemoteMontring\clinet\bin\Debug\clinet.exe.config
+C:\Users\tahani\Downloads\Gradution project\project by c#\RemoteMontring\clinet\bin\Debug\clinet.exe
+C:\Users\tahani\Downloads\Gradution project\project by c#\RemoteMontring\clinet\bin\Debug\clinet.pdb
+C:\Users\tahani\Downloads\Gradution project\project by c#\RemoteMontring\clinet\obj\Debug\clinet.Properties.Resources.resources
+C:\Users\tahani\Downloads\Gradution project\project by c#\RemoteMontring\clinet\obj\Debug\clinet.csproj.GenerateResource.Cache
+C:\Users\tahani\Downloads\Gradution project\project by c#\RemoteMontring\clinet\obj\Debug\clinet.exe
+C:\Users\tahani\Downloads\Gradution project\project by c#\RemoteMontring\clinet\obj\Debug\clinet.pdb
